@@ -33,4 +33,4 @@ By adding the "container"-tag to an item, it offers the link "contained-in".
 If the name of a tag starts with "type-", it is considered to describe a type of item, such as "weapon", "armor", ...
 An item can have arbitrarily many types.
 If two items share a type, they are considered to have some similarity.
-If the name of a "type-*"-tag contains further dashes, i.e. "type-weapon-sword", then "sword" is considered to be a subtype of "weapon".
+Use dashes to describe type-hierarchies: If the tag is "type-weapon-sword", then "sword" is considered to be a subtype of "weapon".
