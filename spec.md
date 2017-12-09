@@ -1,9 +1,10 @@
 # Items
 
 ## Item tags
-Every item can have arbitrarily many tags. Tags are used for two things:
+Every item can have arbitrarily many tags. Tags are used for:
   * classification of items, increasing searchability etc.
   * adding properties to items (see Item Properties).
+  * adding offered links to items (see Item Links).
 
 ## Item Properties
 Items have properties based on their tags. A property is simply a key-value-pair.
@@ -11,7 +12,7 @@ The key comes from a tag, the value is user input.
 
 ## Item Links
 An item can offer links to other items based on its tags.
-An item can be linked to other items based on the links they offer. 
+An item can be linked to other items based on the links they offer.
 
 # Special tags
 
